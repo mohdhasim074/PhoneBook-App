@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>index page</title>
+<title>login page</title>
 <%@ include file="bootstrap.jsp" %>
 </head>
 <body>
 	<marquee>
-		<h1>Welcome to PhoneBook App</h1>
+		<h1>PhoneBook App login page</h1>
 	</marquee>
 
 
