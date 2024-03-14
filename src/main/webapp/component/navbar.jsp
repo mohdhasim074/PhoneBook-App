@@ -19,7 +19,7 @@
 
 		</ul>
 		<form class="form-inline my-2 my-lg-0">
-			<a href="login.jsp" class="btn btn-success btn-outline  my-2 my-sm-0">Login
+			<a href="login.jsp" class="btn btn-success mr-3  ">Login
 				Here</a> <a href="login.jsp"
 				class="btn btn-outline-danger my-2 my-sm-0">Register Here</a>
 		</form>
