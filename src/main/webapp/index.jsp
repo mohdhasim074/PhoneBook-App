@@ -5,12 +5,14 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>index page</title>
-<%@ include file="bootstrap.jsp" %>
+<%@include file="component/allCss.jsp" %>
 </head>
 <body>
-	<marquee>
+	<!-- <marquee>
 		<h1>Welcome to PhoneBook App</h1>
-	</marquee>
+	</marquee> -->
+	
+	<%@ include file="component/navbar.jsp" %>
 
 
 </body>
